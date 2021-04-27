@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  SilDictionary
+
+  Created by Bartek Jezierski on 11/16/18.
+  Copyright © 2018 Bartek Jezierski. All rights reserved.
+*/
+
+"str_addEntryAlert"             = "Nowe hasło";
+"str_prompt"                    = "Dodaj nowe hasło:";
+"str_silesian"                  = "śląski";
+"str_polish"                    = "polski";
+"str_silesian-polish"           = "śląsko-polski";
+"str_polish-silesian"           = "polsko-śląski";
+"str_save"                      = "Zapisz";
+"str_cancel"                    = "Anuluj";
+
+"str_exampleTitle"              = "Przykład użycia";
+"str_search"                    = "Wpisz hasło...";
+
+"str_warning"                   = "Uwaga!";
+"str_deleteAlertWarning"        = "Można usunąć tylko hasła dodane przez użytkownika.";
+"str_OK"                        = "OK";
+"str_done"                      = "Gotowe";
+"str_wrongInputWarning"         = "Nowe hasło jest zbyt krótkie.";
+
+"str_discoverSilesia"           = "Odkryj Śląsk";
+"str_cityImageVCDescription"    = "Odkryj miasta Śląska!";
+"str_appInfo"                   = "Informacje o aplikacji";

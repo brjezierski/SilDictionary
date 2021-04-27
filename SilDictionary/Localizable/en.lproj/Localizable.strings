@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  SilDictionary
+
+  Created by Bartek Jezierski on 11/16/18.
+  Copyright © 2018 Bartek Jezierski. All rights reserved.
+*/
+
+"str_addEntryAlert"             = "New Entry";
+"str_prompt"                    = "Add a new entry:";
+"str_silesian"                  = "Silesian";
+"str_polish"                    = "Polish";
+
+"str_silesian-polish"           = "Silesian-Polish";
+"str_polish-silesian"           = "Polish-Silesian";
+
+"str_save"                      = "Save";
+"str_cancel"                    = "Cancel";
+
+"str_exampleTitle"              = "Example";
+"str_search"                    = "Enter the word...";
+
+"str_warning"                   = "Warning!";
+"str_deleteAlertWarning"        = "You can only delete entries you have added yourself.";
+"str_OK"                        = "OK";
+"str_done"                      = "Done";
+"str_wrongInputWarning"         = "New entry is too short.";
+
+"str_discoverSilesia"           = "Discover Silesia";
+"str_cityImageVCDescription"    = "Discover cities of Silesia!";
+"str_appInfo"                   = "App Info";
